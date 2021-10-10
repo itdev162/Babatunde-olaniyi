@@ -12480,23 +12480,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/coreygibb/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ibaba\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coreygibb/Documents/itdev162/corey-gibb/API/API.csproj",
+      "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/coreygibb/Documents/itdev162/corey-gibb/API/API.csproj",
-      "packagesPath": "/Users/coreygibb/.nuget/packages/",
-      "outputPath": "/Users/coreygibb/Documents/itdev162/corey-gibb/API/obj/",
+      "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/coreygibb/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ibaba\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -12506,9 +12506,10 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "/Users/coreygibb/Documents/itdev162/corey-gibb/Application/Application.csproj": {
-              "projectPath": "/Users/coreygibb/Documents/itdev162/corey-gibb/Application/Application.csproj"
+            "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj": {
+              "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj"
             }
           }
         }
@@ -12521,6 +12522,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
@@ -12549,10 +12551,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
