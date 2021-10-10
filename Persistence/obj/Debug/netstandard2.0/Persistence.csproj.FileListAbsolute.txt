@@ -1,0 +1,12 @@
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
