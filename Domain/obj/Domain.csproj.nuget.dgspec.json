@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj": {}
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj": {
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\obj\\",
+        "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
