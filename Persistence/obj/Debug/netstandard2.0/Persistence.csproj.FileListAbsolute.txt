@@ -23,3 +23,16 @@ D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Per
 D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
 D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 D:\code\matc\itdev162\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.AssemblyReference.cache
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\Documents\MATC\itdev162-assignments\babatunde-olaniyi\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

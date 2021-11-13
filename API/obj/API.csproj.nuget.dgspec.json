@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj": {}
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj": {
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
+        "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
+        "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\obj\\",
+        "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,8 +29,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj": {
-                "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj"
+              "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj": {
+                "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj": {
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj",
+        "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\obj\\",
+        "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,11 +114,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj"
+              "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj"
               },
-              "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\Persistence.csproj"
+              "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj": {
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\obj\\",
+        "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\Persistence.csproj": {
+    "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Persistence\\obj\\",
+        "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -241,8 +241,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Domain\\Domain.csproj"
+              "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Domain\\Domain.csproj"
               }
             }
           }

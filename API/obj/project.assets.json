@@ -12535,11 +12535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
+      "projectUniqueName": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\API.csproj",
+      "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ibaba\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\API\\obj\\",
+      "outputPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12557,8 +12557,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj": {
-              "projectPath": "D:\\code\\matc\\itdev162\\babatunde-olaniyi\\Application\\Application.csproj"
+            "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj": {
+              "projectPath": "D:\\Documents\\MATC\\itdev162-assignments\\babatunde-olaniyi\\Application\\Application.csproj"
             }
           }
         }
