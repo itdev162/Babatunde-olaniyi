@@ -4,7 +4,6 @@ using  System.Threading.Tasks;
 using Domain;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Domain;
 using System.Linq;
 using Persistence;
 using API;
